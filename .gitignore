@@ -35,3 +35,4 @@ contents_*.tex
 notebook_*.log
 *.toc
 *.out
+*.synctex.gz
