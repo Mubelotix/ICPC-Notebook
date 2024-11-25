@@ -5,7 +5,7 @@ import os
 import subprocess
 import sys
 
-title = "INSA Rouen SWERC Team Notebook"
+title = "INSA Rouen SWERC Notebook - Team Les Schroumpfs"
 
 def get_sections(path):
     sections = []
