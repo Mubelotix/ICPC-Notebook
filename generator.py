@@ -67,6 +67,6 @@ if __name__ == "__main__":
     sections = get_sections(basepath)
     tex = get_tex(sections)
     with open('contents_'+basepath+'.tex', 'wb') as f:
-        f.write(tex)
+        f.write(tex.encode('utf-8'))
     latexmk_options = ["latexmk", "-pdf", "notebook_"+basepath+".tex"]
     subprocess.call(latexmk_options)

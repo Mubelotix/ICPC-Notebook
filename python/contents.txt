@@ -1,3 +1,12 @@
+[Utilities]
+utility/bisect_example.py	Bisect
+utility/dict_default.py	Default Dictionary
+utility/array_input.py	Array Input
+utility/heap_queue.py	Heap Queue
+utility/btree.py	Binary Tree
+utility/bset.py	Binary Tree Set
+utility/trie.py	Trie
+
 [Dynamic Programming]
 dp/kadane.py	Max Sum Subarray (Kadane's Algorithm)
 dp/lcs.py	Longest Common Subsequence
