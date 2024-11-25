@@ -1,5 +1,5 @@
 # ICPC-Notebook
-Notebook for INSA Lyon teams at ACM ICPC. Ideas and sources are mainly from Razvan Stancioiu and the Stanford University ACM team.
+Notebook for INSA Rouen teams at SWERC. Ideas and sources are mainly from Razvan Stancioiu and the Stanford University ACM team.
 
 # Usage
 C++ and Python notebook files are located in the cpp/ and python/ directories, respectively.
